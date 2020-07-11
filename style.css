@@ -3,9 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
     background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
     font-family: "Roboto", sans-serif;
+    color: #ffffff;
     font-size: 18px;
 }
 
