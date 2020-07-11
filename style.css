@@ -3,12 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-head {
-    background-mage: url("www.images.pexels.com/photos/1040499/pexels-photo-1040499.jpeg");
-}
 body{
-    <!--background-mage: url("www.images.pexels.com/photos/1040499/pexels-photo-1040499.jpeg");-->
+    background-mage: url("background.png");
     font-family: "Roboto", sans-serif;
     font-size: 18px;
 }
