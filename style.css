@@ -7,7 +7,7 @@
 body{
     background-image: linear-gradient(to top, #e6b980 0%, #eacda3 100%);
     font-family: "Roboto", sans-serif;
-    color: #ffffff;
+    color: #000000;
     font-size: 18px;
 }
 
@@ -19,7 +19,7 @@ body{
 
 h1, h2{
     
-    color: #ffffff;
+    color: #000000;
 }
 h1 {
     
